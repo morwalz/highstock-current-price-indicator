@@ -1,0 +1,22 @@
+{
+    "name": "highcharts",
+    "version": "4.2.0",
+    "description": "Plugin on high charts",
+    "main": "current-price-indicator.js",
+    "authors": [
+        "Shankar Morwal AS <morwal89@gmail.com> (http://www.morwalz.com)"
+    ],
+    "keywords": [
+        "charts",
+        "graphs",
+        "visualization",
+        "data",
+        "browserify",
+        "webpack"
+    ],
+    "ignore": [
+        "build",
+        "copy-release.js"
+    ]
+}
+
